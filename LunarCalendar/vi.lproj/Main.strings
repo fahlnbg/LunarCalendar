@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; configuration.title = "Form FAHLNBG with ❤️"; ObjectID = "7H6-cq-RwA"; */
+"7H6-cq-RwA.configuration.title" = "Form FAHLNBG with ❤️";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7H6-cq-RwA"; */
+"7H6-cq-RwA.normalTitle" = "Form FAHLNBG with ❤️";
+
+/* Class = "UILabel"; text = "LunarCalendar Day:"; ObjectID = "b8s-tr-RjY"; */
+"b8s-tr-RjY.text" = "Ngày Âm Lịch";
+
+/* Class = "UILabel"; text = "VietNamese"; ObjectID = "eBZ-vY-OZr"; */
+"eBZ-vY-OZr.text" = "Việt Nam";
+
+/* Class = "UILabel"; text = "Choose a Calendar Day:"; ObjectID = "ucX-vc-Q1U"; */
+"ucX-vc-Q1U.text" = "Chọn ngày Dương Lịch";
